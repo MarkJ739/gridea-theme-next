@@ -5,7 +5,7 @@
 ![NexT主题概览](assets/images/overview.jpg)
 
 ### 使用
-下载压缩包解压到Gridea/themes目录下
+下载压缩包解压到Gridea/themes目录
 
 ### 已更新内容
 
